@@ -6,7 +6,7 @@
   "dependencies": {
     "UiPath.Excel.Activities": "[2.23.3-preview]",
     "UiPath.System.Activities": "[24.3.1]",
-    "UiPath.UIAutomation.Activities": "[24.4.1-preview]"
+    "UiPath.UIAutomation.Activities": "[24.4.2-preview]"
   },
   "webServices": [],
   "entitiesStores": [],
