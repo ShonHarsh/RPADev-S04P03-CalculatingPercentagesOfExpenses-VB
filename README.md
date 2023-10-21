@@ -1,4 +1,4 @@
-![](https://shonharsh.github.io/curriculum-vitae/images/banner-uipath.png)
+![](https://shonharsh.github.io/curriculum-vitae/Images/Banner-UiPath-02.png)
 
 # S04P03 Calculating Percentages Of Expenses
 
@@ -33,9 +33,9 @@ We have a list of expenses (rent, food, utilities, leisure, savings) for which c
 
 ### Sample Output
 
-![Output](https://shonharsh.github.io/curriculum-vitae/images/RPADev-S04P03-CalculatingPercentagesOfExpenses-Output.png)
+![Output](https://shonharsh.github.io/curriculum-vitae/Images/RPADev-S04P03-CalculatingPercentagesOfExpenses-Output.png)
 
-```
+```sh
 04/29/2024 21:56:07 => [Debug] Debug started for file: Main
 04/29/2024 21:56:07 => [Info] RPADev-S04P03-CalculatingPercentagesOfExpenses-VB execution started
 04/29/2024 21:56:07 => [Info] RPADev-S04P03-CalculatingPercentagesOfExpenses-VB.Main.Begin;
@@ -81,14 +81,13 @@ Computer Games,2019-03-21,1283,CASH,6.187
 Party,2019-05-18,425,CASH,2.0495
 04/29/2024 21:56:08 => [Info] RPADev-S04P03-CalculatingPercentagesOfExpenses-VB.Main.End;
 04/29/2024 21:56:08 => [Info] RPADev-S04P03-CalculatingPercentagesOfExpenses-VB execution ended in: 00:00:01
-
 ```
 
 ### Notes
 
 The ForEach loop TypeArgument must be set to the System.Collections.Generic.KeyValuePair.
 
-![](https://shonharsh.github.io/curriculum-vitae/images/RPADev-S04P02-CalculatingLossInvoices-KeyValuePair.jpg)
+![](https://shonharsh.github.io/curriculum-vitae/Images/RPADev-S04P02-CalculatingLossInvoices-KeyValuePair.jpg)
 
 ### Architecture Requirements
 
@@ -96,15 +95,19 @@ A standard UiPath, Studio to Orchestrator cloud setup is the base of operation. 
 1. An Orchestrator connection - Visit https://cloud.uipath.com/ and authenticate or sign up.
 2. [UiPath Studio](https://www.uipath.com/product/studio) is used to run the robot.  Note that Studio Web can be used directly in Orchestrator but I recommend installing the Studio IDE application.
 
+[![UiPath Setup Guide](https://shonharsh.github.io/curriculum-vitae/Images/Title-UiPath-Setup-Guide.png)](https://github.com/ShonHarsh/UiPath-SetupGuide)
+
 ### Git Notes
 
 Clone the project to develop or change it.
 
-`git clone https://github.com/ShonHarsh/RPADev-S04P03-CalculatingPercentagesOfExpenses-VB`
+```sh
+git clone https://github.com/ShonHarsh/RPADev-S04P03-CalculatingPercentagesOfExpenses-VB
+```
 
 ### Links
 - [UiPath Automation Platform](https://www.uipath.com/)
-- [UiPath Studio](https://www.uipath.com/product/studio)
+- [UiPath Studio](https://www.uipath.com/product/studio)- [Pulsar](https://pulsar-edit.dev/) (Atom Successor) - Used for all my README.md files
 - [Shon Harsh Website 127.0.0.1](https://shonharsh.github.io/curriculum-vitae/index.html)
 - [This.GitHub](https://github.com/shonharsh)
 - [LinkedIn](https://www.linkedin.com/in/shonharsh/)
