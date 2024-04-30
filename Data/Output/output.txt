@@ -1,0 +1,147 @@
+04/29/2024 21:56:07 => [Debug] Debug started for file: Main
+04/29/2024 21:56:07 => [Info] RPADev-S04P03-CalculatingPercentagesOfExpenses-VB execution started
+04/29/2024 21:56:07 => [Info] RPADev-S04P03-CalculatingPercentagesOfExpenses-VB.Main.Begin;
+04/29/2024 21:56:08 => [Info] RPADev-S04P03-CalculatingPercentagesOfExpenses-VB.Date_DD_MM_YYYYToISO.Begin;
+04/29/2024 21:56:08 => [Info] RPADev-S04P03-CalculatingPercentagesOfExpenses-VB.Date_DD_MM_YYYYToISO.Print; Input Date: 01.01.2019, ISO Date: 2019-01-01
+04/29/2024 21:56:08 => [Info] RPADev-S04P03-CalculatingPercentagesOfExpenses-VB.Date_DD_MM_YYYYToISO.End;
+04/29/2024 21:56:08 => [Info] RPADev-S04P03-CalculatingPercentagesOfExpenses-VB.Date_DD_MM_YYYYToISO.Begin;
+04/29/2024 21:56:08 => [Info] RPADev-S04P03-CalculatingPercentagesOfExpenses-VB.Date_DD_MM_YYYYToISO.Print; Input Date: 07.01.2019, ISO Date: 2019-01-07
+04/29/2024 21:56:08 => [Info] RPADev-S04P03-CalculatingPercentagesOfExpenses-VB.Date_DD_MM_YYYYToISO.End;
+04/29/2024 21:56:08 => [Info] RPADev-S04P03-CalculatingPercentagesOfExpenses-VB.Date_DD_MM_YYYYToISO.Begin;
+04/29/2024 21:56:08 => [Info] RPADev-S04P03-CalculatingPercentagesOfExpenses-VB.Date_DD_MM_YYYYToISO.Print; Input Date: 01.01.2019, ISO Date: 2019-01-01
+04/29/2024 21:56:08 => [Info] RPADev-S04P03-CalculatingPercentagesOfExpenses-VB.Date_DD_MM_YYYYToISO.End;
+04/29/2024 21:56:08 => [Info] RPADev-S04P03-CalculatingPercentagesOfExpenses-VB.Date_DD_MM_YYYYToISO.Begin;
+04/29/2024 21:56:08 => [Info] RPADev-S04P03-CalculatingPercentagesOfExpenses-VB.Date_DD_MM_YYYYToISO.Print; Input Date: 01.01.2019, ISO Date: 2019-01-01
+04/29/2024 21:56:08 => [Info] RPADev-S04P03-CalculatingPercentagesOfExpenses-VB.Date_DD_MM_YYYYToISO.End;
+04/29/2024 21:56:08 => [Info] RPADev-S04P03-CalculatingPercentagesOfExpenses-VB.Date_DD_MM_YYYYToISO.Begin;
+04/29/2024 21:56:08 => [Info] RPADev-S04P03-CalculatingPercentagesOfExpenses-VB.Date_DD_MM_YYYYToISO.Print; Input Date: 01.01.2019, ISO Date: 2019-01-01
+04/29/2024 21:56:08 => [Info] RPADev-S04P03-CalculatingPercentagesOfExpenses-VB.Date_DD_MM_YYYYToISO.End;
+04/29/2024 21:56:08 => [Info] RPADev-S04P03-CalculatingPercentagesOfExpenses-VB.Date_DD_MM_YYYYToISO.Begin;
+04/29/2024 21:56:08 => [Info] RPADev-S04P03-CalculatingPercentagesOfExpenses-VB.Date_DD_MM_YYYYToISO.Print; Input Date: 01.01.2019, ISO Date: 2019-01-01
+04/29/2024 21:56:08 => [Info] RPADev-S04P03-CalculatingPercentagesOfExpenses-VB.Date_DD_MM_YYYYToISO.End;
+04/29/2024 21:56:08 => [Info] RPADev-S04P03-CalculatingPercentagesOfExpenses-VB.Date_DD_MM_YYYYToISO.Begin;
+04/29/2024 21:56:08 => [Info] RPADev-S04P03-CalculatingPercentagesOfExpenses-VB.Date_DD_MM_YYYYToISO.Print; Input Date: 01.01.2019, ISO Date: 2019-01-01
+04/29/2024 21:56:08 => [Info] RPADev-S04P03-CalculatingPercentagesOfExpenses-VB.Date_DD_MM_YYYYToISO.End;
+04/29/2024 21:56:08 => [Info] RPADev-S04P03-CalculatingPercentagesOfExpenses-VB.Date_DD_MM_YYYYToISO.Begin;
+04/29/2024 21:56:08 => [Info] RPADev-S04P03-CalculatingPercentagesOfExpenses-VB.Date_DD_MM_YYYYToISO.Print; Input Date: 01.02.2019, ISO Date: 2019-02-01
+04/29/2024 21:56:08 => [Info] RPADev-S04P03-CalculatingPercentagesOfExpenses-VB.Date_DD_MM_YYYYToISO.End;
+04/29/2024 21:56:08 => [Info] RPADev-S04P03-CalculatingPercentagesOfExpenses-VB.Date_DD_MM_YYYYToISO.Begin;
+04/29/2024 21:56:08 => [Info] RPADev-S04P03-CalculatingPercentagesOfExpenses-VB.Date_DD_MM_YYYYToISO.Print; Input Date: 01.02.2019, ISO Date: 2019-02-01
+04/29/2024 21:56:08 => [Info] RPADev-S04P03-CalculatingPercentagesOfExpenses-VB.Date_DD_MM_YYYYToISO.End;
+04/29/2024 21:56:08 => [Info] RPADev-S04P03-CalculatingPercentagesOfExpenses-VB.Date_DD_MM_YYYYToISO.Begin;
+04/29/2024 21:56:08 => [Info] RPADev-S04P03-CalculatingPercentagesOfExpenses-VB.Date_DD_MM_YYYYToISO.Print; Input Date: 01.02.2019, ISO Date: 2019-02-01
+04/29/2024 21:56:08 => [Info] RPADev-S04P03-CalculatingPercentagesOfExpenses-VB.Date_DD_MM_YYYYToISO.End;
+04/29/2024 21:56:08 => [Info] RPADev-S04P03-CalculatingPercentagesOfExpenses-VB.Date_DD_MM_YYYYToISO.Begin;
+04/29/2024 21:56:08 => [Info] RPADev-S04P03-CalculatingPercentagesOfExpenses-VB.Date_DD_MM_YYYYToISO.Print; Input Date: 01.02.2019, ISO Date: 2019-02-01
+04/29/2024 21:56:08 => [Info] RPADev-S04P03-CalculatingPercentagesOfExpenses-VB.Date_DD_MM_YYYYToISO.End;
+04/29/2024 21:56:08 => [Info] RPADev-S04P03-CalculatingPercentagesOfExpenses-VB.Date_DD_MM_YYYYToISO.Begin;
+04/29/2024 21:56:08 => [Info] RPADev-S04P03-CalculatingPercentagesOfExpenses-VB.Date_DD_MM_YYYYToISO.Print; Input Date: 01.02.2019, ISO Date: 2019-02-01
+04/29/2024 21:56:08 => [Info] RPADev-S04P03-CalculatingPercentagesOfExpenses-VB.Date_DD_MM_YYYYToISO.End;
+04/29/2024 21:56:08 => [Info] RPADev-S04P03-CalculatingPercentagesOfExpenses-VB.Date_DD_MM_YYYYToISO.Begin;
+04/29/2024 21:56:08 => [Info] RPADev-S04P03-CalculatingPercentagesOfExpenses-VB.Date_DD_MM_YYYYToISO.Print; Input Date: 01.02.2019, ISO Date: 2019-02-01
+04/29/2024 21:56:08 => [Info] RPADev-S04P03-CalculatingPercentagesOfExpenses-VB.Date_DD_MM_YYYYToISO.End;
+04/29/2024 21:56:08 => [Info] RPADev-S04P03-CalculatingPercentagesOfExpenses-VB.Date_DD_MM_YYYYToISO.Begin;
+04/29/2024 21:56:08 => [Info] RPADev-S04P03-CalculatingPercentagesOfExpenses-VB.Date_DD_MM_YYYYToISO.Print; Input Date: 01.03.2019, ISO Date: 2019-03-01
+04/29/2024 21:56:08 => [Info] RPADev-S04P03-CalculatingPercentagesOfExpenses-VB.Date_DD_MM_YYYYToISO.End;
+04/29/2024 21:56:08 => [Info] RPADev-S04P03-CalculatingPercentagesOfExpenses-VB.Date_DD_MM_YYYYToISO.Begin;
+04/29/2024 21:56:08 => [Info] RPADev-S04P03-CalculatingPercentagesOfExpenses-VB.Date_DD_MM_YYYYToISO.Print; Input Date: 01.03.2019, ISO Date: 2019-03-01
+04/29/2024 21:56:08 => [Info] RPADev-S04P03-CalculatingPercentagesOfExpenses-VB.Date_DD_MM_YYYYToISO.End;
+04/29/2024 21:56:08 => [Info] RPADev-S04P03-CalculatingPercentagesOfExpenses-VB.Date_DD_MM_YYYYToISO.Begin;
+04/29/2024 21:56:08 => [Info] RPADev-S04P03-CalculatingPercentagesOfExpenses-VB.Date_DD_MM_YYYYToISO.Print; Input Date: 01.03.2019, ISO Date: 2019-03-01
+04/29/2024 21:56:08 => [Info] RPADev-S04P03-CalculatingPercentagesOfExpenses-VB.Date_DD_MM_YYYYToISO.End;
+04/29/2024 21:56:08 => [Info] RPADev-S04P03-CalculatingPercentagesOfExpenses-VB.Date_DD_MM_YYYYToISO.Begin;
+04/29/2024 21:56:08 => [Info] RPADev-S04P03-CalculatingPercentagesOfExpenses-VB.Date_DD_MM_YYYYToISO.Print; Input Date: 01.03.2019, ISO Date: 2019-03-01
+04/29/2024 21:56:08 => [Info] RPADev-S04P03-CalculatingPercentagesOfExpenses-VB.Date_DD_MM_YYYYToISO.End;
+04/29/2024 21:56:08 => [Info] RPADev-S04P03-CalculatingPercentagesOfExpenses-VB.Date_DD_MM_YYYYToISO.Begin;
+04/29/2024 21:56:08 => [Info] RPADev-S04P03-CalculatingPercentagesOfExpenses-VB.Date_DD_MM_YYYYToISO.Print; Input Date: 01.03.2019, ISO Date: 2019-03-01
+04/29/2024 21:56:08 => [Info] RPADev-S04P03-CalculatingPercentagesOfExpenses-VB.Date_DD_MM_YYYYToISO.End;
+04/29/2024 21:56:08 => [Info] RPADev-S04P03-CalculatingPercentagesOfExpenses-VB.Date_DD_MM_YYYYToISO.Begin;
+04/29/2024 21:56:08 => [Info] RPADev-S04P03-CalculatingPercentagesOfExpenses-VB.Date_DD_MM_YYYYToISO.Print; Input Date: 01.03.2019, ISO Date: 2019-03-01
+04/29/2024 21:56:08 => [Info] RPADev-S04P03-CalculatingPercentagesOfExpenses-VB.Date_DD_MM_YYYYToISO.End;
+04/29/2024 21:56:08 => [Info] RPADev-S04P03-CalculatingPercentagesOfExpenses-VB.Date_DD_MM_YYYYToISO.Begin;
+04/29/2024 21:56:08 => [Info] RPADev-S04P03-CalculatingPercentagesOfExpenses-VB.Date_DD_MM_YYYYToISO.Print; Input Date: 01.04.2019, ISO Date: 2019-04-01
+04/29/2024 21:56:08 => [Info] RPADev-S04P03-CalculatingPercentagesOfExpenses-VB.Date_DD_MM_YYYYToISO.End;
+04/29/2024 21:56:08 => [Info] RPADev-S04P03-CalculatingPercentagesOfExpenses-VB.Date_DD_MM_YYYYToISO.Begin;
+04/29/2024 21:56:08 => [Info] RPADev-S04P03-CalculatingPercentagesOfExpenses-VB.Date_DD_MM_YYYYToISO.Print; Input Date: 01.04.2019, ISO Date: 2019-04-01
+04/29/2024 21:56:08 => [Info] RPADev-S04P03-CalculatingPercentagesOfExpenses-VB.Date_DD_MM_YYYYToISO.End;
+04/29/2024 21:56:08 => [Info] RPADev-S04P03-CalculatingPercentagesOfExpenses-VB.Date_DD_MM_YYYYToISO.Begin;
+04/29/2024 21:56:08 => [Info] RPADev-S04P03-CalculatingPercentagesOfExpenses-VB.Date_DD_MM_YYYYToISO.Print; Input Date: 01.04.2019, ISO Date: 2019-04-01
+04/29/2024 21:56:08 => [Info] RPADev-S04P03-CalculatingPercentagesOfExpenses-VB.Date_DD_MM_YYYYToISO.End;
+04/29/2024 21:56:08 => [Info] RPADev-S04P03-CalculatingPercentagesOfExpenses-VB.Date_DD_MM_YYYYToISO.Begin;
+04/29/2024 21:56:08 => [Info] RPADev-S04P03-CalculatingPercentagesOfExpenses-VB.Date_DD_MM_YYYYToISO.Print; Input Date: 01.04.2019, ISO Date: 2019-04-01
+04/29/2024 21:56:08 => [Info] RPADev-S04P03-CalculatingPercentagesOfExpenses-VB.Date_DD_MM_YYYYToISO.End;
+04/29/2024 21:56:08 => [Info] RPADev-S04P03-CalculatingPercentagesOfExpenses-VB.Date_DD_MM_YYYYToISO.Begin;
+04/29/2024 21:56:08 => [Info] RPADev-S04P03-CalculatingPercentagesOfExpenses-VB.Date_DD_MM_YYYYToISO.Print; Input Date: 01.04.2019, ISO Date: 2019-04-01
+04/29/2024 21:56:08 => [Info] RPADev-S04P03-CalculatingPercentagesOfExpenses-VB.Date_DD_MM_YYYYToISO.End;
+04/29/2024 21:56:08 => [Info] RPADev-S04P03-CalculatingPercentagesOfExpenses-VB.Date_DD_MM_YYYYToISO.Begin;
+04/29/2024 21:56:08 => [Info] RPADev-S04P03-CalculatingPercentagesOfExpenses-VB.Date_DD_MM_YYYYToISO.Print; Input Date: 01.04.2019, ISO Date: 2019-04-01
+04/29/2024 21:56:08 => [Info] RPADev-S04P03-CalculatingPercentagesOfExpenses-VB.Date_DD_MM_YYYYToISO.End;
+04/29/2024 21:56:08 => [Info] RPADev-S04P03-CalculatingPercentagesOfExpenses-VB.Date_DD_MM_YYYYToISO.Begin;
+04/29/2024 21:56:08 => [Info] RPADev-S04P03-CalculatingPercentagesOfExpenses-VB.Date_DD_MM_YYYYToISO.Print; Input Date: 01.05.2019, ISO Date: 2019-05-01
+04/29/2024 21:56:08 => [Info] RPADev-S04P03-CalculatingPercentagesOfExpenses-VB.Date_DD_MM_YYYYToISO.End;
+04/29/2024 21:56:08 => [Info] RPADev-S04P03-CalculatingPercentagesOfExpenses-VB.Date_DD_MM_YYYYToISO.Begin;
+04/29/2024 21:56:08 => [Info] RPADev-S04P03-CalculatingPercentagesOfExpenses-VB.Date_DD_MM_YYYYToISO.Print; Input Date: 01.05.2019, ISO Date: 2019-05-01
+04/29/2024 21:56:08 => [Info] RPADev-S04P03-CalculatingPercentagesOfExpenses-VB.Date_DD_MM_YYYYToISO.End;
+04/29/2024 21:56:08 => [Info] RPADev-S04P03-CalculatingPercentagesOfExpenses-VB.Date_DD_MM_YYYYToISO.Begin;
+04/29/2024 21:56:08 => [Info] RPADev-S04P03-CalculatingPercentagesOfExpenses-VB.Date_DD_MM_YYYYToISO.Print; Input Date: 01.05.2019, ISO Date: 2019-05-01
+04/29/2024 21:56:08 => [Info] RPADev-S04P03-CalculatingPercentagesOfExpenses-VB.Date_DD_MM_YYYYToISO.End;
+04/29/2024 21:56:08 => [Info] RPADev-S04P03-CalculatingPercentagesOfExpenses-VB.Date_DD_MM_YYYYToISO.Begin;
+04/29/2024 21:56:08 => [Info] RPADev-S04P03-CalculatingPercentagesOfExpenses-VB.Date_DD_MM_YYYYToISO.Print; Input Date: 01.05.2019, ISO Date: 2019-05-01
+04/29/2024 21:56:08 => [Info] RPADev-S04P03-CalculatingPercentagesOfExpenses-VB.Date_DD_MM_YYYYToISO.End;
+04/29/2024 21:56:08 => [Info] RPADev-S04P03-CalculatingPercentagesOfExpenses-VB.Date_DD_MM_YYYYToISO.Begin;
+04/29/2024 21:56:08 => [Info] RPADev-S04P03-CalculatingPercentagesOfExpenses-VB.Date_DD_MM_YYYYToISO.Print; Input Date: 01.05.2019, ISO Date: 2019-05-01
+04/29/2024 21:56:08 => [Info] RPADev-S04P03-CalculatingPercentagesOfExpenses-VB.Date_DD_MM_YYYYToISO.End;
+04/29/2024 21:56:08 => [Info] RPADev-S04P03-CalculatingPercentagesOfExpenses-VB.Date_DD_MM_YYYYToISO.Begin;
+04/29/2024 21:56:08 => [Info] RPADev-S04P03-CalculatingPercentagesOfExpenses-VB.Date_DD_MM_YYYYToISO.Print; Input Date: 01.05.2019, ISO Date: 2019-05-01
+04/29/2024 21:56:08 => [Info] RPADev-S04P03-CalculatingPercentagesOfExpenses-VB.Date_DD_MM_YYYYToISO.End;
+04/29/2024 21:56:08 => [Info] RPADev-S04P03-CalculatingPercentagesOfExpenses-VB.Date_DD_MM_YYYYToISO.Begin;
+04/29/2024 21:56:08 => [Info] RPADev-S04P03-CalculatingPercentagesOfExpenses-VB.Date_DD_MM_YYYYToISO.Print; Input Date: 06.01.2019, ISO Date: 2019-01-06
+04/29/2024 21:56:08 => [Info] RPADev-S04P03-CalculatingPercentagesOfExpenses-VB.Date_DD_MM_YYYYToISO.End;
+04/29/2024 21:56:08 => [Info] RPADev-S04P03-CalculatingPercentagesOfExpenses-VB.Date_DD_MM_YYYYToISO.Begin;
+04/29/2024 21:56:08 => [Info] RPADev-S04P03-CalculatingPercentagesOfExpenses-VB.Date_DD_MM_YYYYToISO.Print; Input Date: 23.06.2019, ISO Date: 2019-06-23
+04/29/2024 21:56:08 => [Info] RPADev-S04P03-CalculatingPercentagesOfExpenses-VB.Date_DD_MM_YYYYToISO.End;
+04/29/2024 21:56:08 => [Info] RPADev-S04P03-CalculatingPercentagesOfExpenses-VB.Date_DD_MM_YYYYToISO.Begin;
+04/29/2024 21:56:08 => [Info] RPADev-S04P03-CalculatingPercentagesOfExpenses-VB.Date_DD_MM_YYYYToISO.Print; Input Date: 21.03.2019, ISO Date: 2019-03-21
+04/29/2024 21:56:08 => [Info] RPADev-S04P03-CalculatingPercentagesOfExpenses-VB.Date_DD_MM_YYYYToISO.End;
+04/29/2024 21:56:08 => [Info] RPADev-S04P03-CalculatingPercentagesOfExpenses-VB.Date_DD_MM_YYYYToISO.Begin;
+04/29/2024 21:56:08 => [Info] RPADev-S04P03-CalculatingPercentagesOfExpenses-VB.Date_DD_MM_YYYYToISO.Print; Input Date: 18.05.2019, ISO Date: 2019-05-18
+04/29/2024 21:56:08 => [Info] RPADev-S04P03-CalculatingPercentagesOfExpenses-VB.Date_DD_MM_YYYYToISO.End;
+04/29/2024 21:56:08 => [Info] RPADev-S04P03-CalculatingPercentagesOfExpenses-VB.Main.Print;
+Expense,Date,Value,Transaction Type,Percent
+Food,2019-01-01,863,CARD,4.1616
+Vacation,2019-01-07,2000,CARD,9.6446
+Savings,2019-01-01,500,CARD,2.4111
+Rent,2019-01-01,1500,CARD,7.2334
+Electricity,2019-01-01,121,CARD,0.5835
+Plumbing,2019-01-01,86,CARD,0.4147
+Phone,2019-01-01,20,CARD,0.0964
+Food,2019-02-01,1243,CARD,5.9941
+Savings,2019-02-01,500,CARD,2.4111
+Rent,2019-02-01,1500,CARD,7.2334
+Electricity,2019-02-01,142,CARD,0.6848
+Plumbing,2019-02-01,68,CARD,0.3279
+Phone,2019-02-01,20,CARD,0.0964
+Food,2019-03-01,975,CARD,4.7017
+Savings,2019-03-01,500,CARD,2.4111
+Rent,2019-03-01,1500,CARD,7.2334
+Electricity,2019-03-01,94,CARD,0.4533
+Plumbing,2019-03-01,92,CARD,0.4437
+Phone,2019-03-01,20,CARD,0.0964
+Food,2019-04-01,1234,CARD,5.9507
+Savings,2019-04-01,500,CARD,2.4111
+Rent,2019-04-01,1500,CARD,7.2334
+Electricity,2019-04-01,73,CARD,0.352
+Plumbing,2019-04-01,62,CARD,0.299
+Phone,2019-04-01,20,CARD,0.0964
+Food,2019-05-01,863,CARD,4.1616
+Savings,2019-05-01,500,CARD,2.4111
+Rent,2019-05-01,1500,CARD,7.2334
+Electricity,2019-05-01,121,CARD,0.5835
+Plumbing,2019-05-01,86,CARD,0.4147
+Phone,2019-05-01,20,CARD,0.0964
+Gym membership,2019-01-06,452,CASH,2.1797
+Board Games,2019-06-23,354,CASH,1.7071
+Computer Games,2019-03-21,1283,CASH,6.187
+Party,2019-05-18,425,CASH,2.0495
+04/29/2024 21:56:08 => [Info] RPADev-S04P03-CalculatingPercentagesOfExpenses-VB.Main.End;
+04/29/2024 21:56:08 => [Info] RPADev-S04P03-CalculatingPercentagesOfExpenses-VB execution ended in: 00:00:01
